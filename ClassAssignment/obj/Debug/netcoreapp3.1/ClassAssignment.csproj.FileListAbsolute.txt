@@ -1,0 +1,11 @@
+C:\repos\ClassAssignment\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.csprojAssemblyReference.cache
+C:\repos\ClassAssignment\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.AssemblyInfoInputs.cache
+C:\repos\ClassAssignment\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.AssemblyInfo.cs
+C:\repos\ClassAssignment\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.exe
+C:\repos\ClassAssignment\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.deps.json
+C:\repos\ClassAssignment\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.runtimeconfig.json
+C:\repos\ClassAssignment\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.runtimeconfig.dev.json
+C:\repos\ClassAssignment\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.dll
+C:\repos\ClassAssignment\ClassAssignment\bin\Debug\netcoreapp3.1\ClassAssignment.pdb
+C:\repos\ClassAssignment\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.dll
+C:\repos\ClassAssignment\ClassAssignment\obj\Debug\netcoreapp3.1\ClassAssignment.pdb
